@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 6380,
+  "log_file": "logs/server.log",
+  "aof_file": "data/appendonly.aof",
+  "snapshot_file": "data/dump.rdb",
+  "max_connections": 100,
+  "log_level": "info"
+}
